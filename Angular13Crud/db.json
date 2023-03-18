@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Smart Phone",
+      "category": "Electronics",
+      "date": "2022-12-13T18:30:00.000Z",
+      "freshness": "Second hand",
+      "price": 10000,
+      "comment": "working properly",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
